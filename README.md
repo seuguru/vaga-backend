@@ -32,5 +32,10 @@ response
 ### [POST] /api/simulator 
 ```json
 {
+  "user_id": 1,
+  "risk_type": "Prédio Comercial",
+  "address": "Rua Faria Lima"
+  "number": "250",
+  "zipcode": "04315001"
 }
 ```
