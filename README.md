@@ -8,6 +8,9 @@
  - Criar endpoint para listagem dos seguros e suas coberturas.
  - Criar um endpoint para cotação de seguros.
  - A entrega deve ser via github, enviar o repositório
+ - Documentacão (EXTRA)
+ - Dockerizado (EXTRA)
+ - Deploy (EXTRA)
 
 
 ## Como calcular o custo da cobertura?
