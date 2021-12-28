@@ -69,8 +69,8 @@ request
   "user_id": 1,
   "insurance_id": 1,
   "coberturas": [
-    {coverage_id: 3, capital: 1000 }
-    {coverage_id: 4, capital: 1000 }
+    {"coverage_id": 3, "capital": 1000 }
+    {"coverage_id": 4, "capital": 1000 }
   ]
 }
 ```
@@ -79,8 +79,8 @@ response
 {
   "insurance_id": 2,
   "coverages": [
-    {coverage_id: 3, name: "Quebra de Vidros", capital: 1000, premio: 200 }
-    {coverage_id: 4, name: "Vendaval", capital: 1000, premio: 100 }
+    {"coverage_id": 3, "name": "Quebra de Vidros", "capital": 1000, "premio": 200 }
+    {"coverage_id": 4, "name": "Vendaval", "capital": 1000, "premio": 100 }
   ],
   "total": 300.0
 }
